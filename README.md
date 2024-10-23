@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shaban</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Mohamed Shaban</h1>
+<h3 align="center">Data Analyst/ Scientist</h3>
 <img align="" alt="Coding" width="400" src="https://media1.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif?cid=ecf05e47wvn9ges1j0yuy5iya7or2tw8q8gt4rcd8epterjd&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-shaban2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-shaban2001" /> </p>
